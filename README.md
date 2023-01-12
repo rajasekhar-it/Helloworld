@@ -13,3 +13,4 @@ myRepo 9
 master 10
 master 11
 master 12
+master 12.2
